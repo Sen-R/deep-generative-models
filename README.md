@@ -7,6 +7,10 @@ This repo contains deep generative model implementations and experiments that I 
 * Stanford's [CS236](https://deepgenerativemodels.github.io/) course on deep generative models
 * Gan, Z., Henao, R., Carlson, D., Carin, L.  *Learning Deep Sigmoid Belief Networks with Data Augmentation.* JMLR, 2015.
 
+## Contents
+
+1. [Fully visible sigmoid belief networks for modelling binarized MNIST](notebooks/FVSBNs.ipynb)
+
 ## Getting started
 
 Notebooks were created and run on Google Colab. However, you should be able to run them locally after setting up a python / conda environment with tensorflow installed.
